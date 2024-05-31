@@ -6128,5 +6128,21 @@
       }
     ],
     "is_official": false
+  },
+  {
+    "module_name": "nonebot_plugin_qqshell",
+    "project_link": "nonebot-plugin-qqshell",
+    "author": "yejue",
+    "tags": [
+      {
+        "label": "QQSSH",
+        "color": "#cd2a8f"
+      },
+      {
+        "label": "QQShell",
+        "color": "#50b7cd"
+      }
+    ],
+    "is_official": false
   }
 ]
